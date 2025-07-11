@@ -49,7 +49,7 @@ ScrollingFrame.CanvasPosition = Vector2.new(0, 67.6666718)
 
 Skybox.Name = "Skybox"
 Skybox.Parent = ScrollingFrame
-Skybox.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+Skybox.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
 Skybox.BackgroundTransparency = 0.500
 Skybox.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Skybox.BorderSizePixel = 0
@@ -61,7 +61,7 @@ Skybox.TextColor3 = Color3.fromRGB(0, 0, 0)
 Skybox.TextSize = 20.000
 
 TextLabel.Parent = ScrollingFrame
-TextLabel.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+TextLabel.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
 TextLabel.BackgroundTransparency = 0.500
 TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel.BorderSizePixel = 0
@@ -75,7 +75,7 @@ TextLabel.TextStrokeColor3 = Color3.fromRGB(127, 127, 127)
 
 DecalSpam.Name = "Decal Spam"
 DecalSpam.Parent = ScrollingFrame
-DecalSpam.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+DecalSpam.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
 DecalSpam.BackgroundTransparency = 0.500
 DecalSpam.BorderColor3 = Color3.fromRGB(0, 0, 0)
 DecalSpam.BorderSizePixel = 0
@@ -88,7 +88,7 @@ DecalSpam.TextSize = 20.000
 
 Unanchor.Name = "Unanchor"
 Unanchor.Parent = ScrollingFrame
-Unanchor.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+Unanchor.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
 Unanchor.BackgroundTransparency = 0.500
 Unanchor.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Unanchor.BorderSizePixel = 0
@@ -101,7 +101,7 @@ Unanchor.TextSize = 20.000
 
 F3XPanel.Name = "F3X Panel"
 F3XPanel.Parent = ScrollingFrame
-F3XPanel.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+F3XPanel.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
 F3XPanel.BackgroundTransparency = 0.500
 F3XPanel.BorderColor3 = Color3.fromRGB(0, 0, 0)
 F3XPanel.BorderSizePixel = 0
@@ -114,7 +114,7 @@ F3XPanel.TextSize = 20.000
 
 FireAll.Name = "Fire All"
 FireAll.Parent = ScrollingFrame
-FireAll.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+FireAll.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
 FireAll.BackgroundTransparency = 0.500
 FireAll.BorderColor3 = Color3.fromRGB(0, 0, 0)
 FireAll.BorderSizePixel = 0
@@ -126,7 +126,7 @@ FireAll.TextColor3 = Color3.fromRGB(0, 0, 0)
 FireAll.TextSize = 20.000
 
 TextLabel_2.Parent = ScrollingFrame
-TextLabel_2.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
 TextLabel_2.BackgroundTransparency = 0.500
 TextLabel_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_2.BorderSizePixel = 0
@@ -138,7 +138,7 @@ TextLabel_2.TextSize = 24.000
 
 TrollFaceSpam.Name = "TrollFace Spam"
 TrollFaceSpam.Parent = ScrollingFrame
-TrollFaceSpam.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+TrollFaceSpam.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
 TrollFaceSpam.BackgroundTransparency = 0.500
 TrollFaceSpam.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TrollFaceSpam.BorderSizePixel = 0
@@ -151,7 +151,7 @@ TrollFaceSpam.TextSize = 20.000
 
 Baseplate.Name = "Baseplate"
 Baseplate.Parent = ScrollingFrame
-Baseplate.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+Baseplate.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
 Baseplate.BackgroundTransparency = 0.500
 Baseplate.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Baseplate.BorderSizePixel = 0
@@ -164,7 +164,7 @@ Baseplate.TextSize = 20.000
 
 EpicSpam.Name = "Epic Spam"
 EpicSpam.Parent = ScrollingFrame
-EpicSpam.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+EpicSpam.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
 EpicSpam.BackgroundTransparency = 0.500
 EpicSpam.BorderColor3 = Color3.fromRGB(0, 0, 0)
 EpicSpam.BorderSizePixel = 0
@@ -176,7 +176,7 @@ EpicSpam.TextColor3 = Color3.fromRGB(0, 0, 0)
 EpicSpam.TextSize = 20.000
 
 TextLabel_3.Parent = ScrollingFrame
-TextLabel_3.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+TextLabel_3.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
 TextLabel_3.BackgroundTransparency = 0.500
 TextLabel_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_3.BorderSizePixel = 0
@@ -189,7 +189,7 @@ TextLabel_3.TextSize = 30.000
 
 _679.Name = "679"
 _679.Parent = ScrollingFrame
-_679.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+_679.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
 _679.BackgroundTransparency = 0.500
 _679.BorderColor3 = Color3.fromRGB(0, 0, 0)
 _679.BorderSizePixel = 0
@@ -202,7 +202,7 @@ _679.TextSize = 20.000
 
 FuckAllNIggers.Name = "Fuck All NIggers"
 FuckAllNIggers.Parent = ScrollingFrame
-FuckAllNIggers.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+FuckAllNIggers.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
 FuckAllNIggers.BackgroundTransparency = 0.500
 FuckAllNIggers.BorderColor3 = Color3.fromRGB(0, 0, 0)
 FuckAllNIggers.BorderSizePixel = 0
@@ -215,7 +215,7 @@ FuckAllNIggers.TextSize = 20.000
 
 LoveSosa.Name = "Love Sosa"
 LoveSosa.Parent = ScrollingFrame
-LoveSosa.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+LoveSosa.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
 LoveSosa.BackgroundTransparency = 0.500
 LoveSosa.BorderColor3 = Color3.fromRGB(0, 0, 0)
 LoveSosa.BorderSizePixel = 0
@@ -228,7 +228,7 @@ LoveSosa.TextSize = 20.000
 
 EMOTEGI.Name = "EMOTEGI"
 EMOTEGI.Parent = ScrollingFrame
-EMOTEGI.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+EMOTEGI.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
 EMOTEGI.BackgroundTransparency = 0.500
 EMOTEGI.BorderColor3 = Color3.fromRGB(0, 0, 0)
 EMOTEGI.BorderSizePixel = 0
@@ -241,7 +241,7 @@ EMOTEGI.TextSize = 20.000
 
 credits.Name = "credits"
 credits.Parent = ScrollingFrame
-credits.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+credits.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
 credits.BackgroundTransparency = 0.500
 credits.BorderColor3 = Color3.fromRGB(0, 0, 0)
 credits.BorderSizePixel = 0
