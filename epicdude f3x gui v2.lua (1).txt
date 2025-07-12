@@ -259,7 +259,6 @@ local function TKPYN_fake_script() -- Skybox.Script
 	local script = Instance.new('Script', Skybox)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		--rgrg
 		local player = game.Players.LocalPlayer
 		local char = player.Character
 		local tool
@@ -273,7 +272,6 @@ local function TKPYN_fake_script() -- Skybox.Script
 				tool = v.Parent
 			end
 		end
-		--craaa
 		remote = tool.SyncAPI.ServerEndpoint
 		function _(args)
 			remote:InvokeServer(unpack(args))
@@ -356,7 +354,7 @@ local function TKPYN_fake_script() -- Skybox.Script
 			}
 			_(args)
 		end
-	
+
 		function SetMesh(part,meshid)
 			local args = {
 				[1] = "SyncMesh",
@@ -389,7 +387,7 @@ local function TKPYN_fake_script() -- Skybox.Script
 				},
 				[3] = stringg
 			}
-	
+
 			_(args)
 		end
 		function MeshResize(part,size)
@@ -414,7 +412,7 @@ local function TKPYN_fake_script() -- Skybox.Script
 				[3] = lead
 			}
 			_(args)
-	
+
 		end
 		function SetLocked(part,boolean)
 			local args = {
@@ -487,7 +485,7 @@ local function TKPYN_fake_script() -- Skybox.Script
 					}
 				}
 			}
-	
+
 			_(args)
 		end
 		function AddDecal(part,asset,side)
@@ -504,7 +502,7 @@ local function TKPYN_fake_script() -- Skybox.Script
 			}
 			_(args)
 		end
-	
+
 		function Sky(id)
 			e = char.HumanoidRootPart.CFrame.x
 			f = char.HumanoidRootPart.CFrame.y
@@ -513,19 +511,19 @@ local function TKPYN_fake_script() -- Skybox.Script
 			for i,v in game.Workspace:GetDescendants() do
 				if v:IsA("BasePart") and v.CFrame.x == math.floor(e) and v.CFrame.z == math.floor(g) then
 					--spawn(function()
-					SetName(v,"Sky")
+					SetName(v,"Skybox")
 					AddMesh(v)
 					--end)
 					--spawn(function()
-					SetMesh(v,"8006679977")
+					SetMesh(v,"111891702759441") -- Dont change it
 					SetTexture(v,id)
 					--end)
-					MeshResize(v,Vector3.new(50,50,50))
+					MeshResize(v,Vector3.new(7200, 7200, 7200)) -- The rest must be equal to the first scale number
 					SetLocked(v,true)
 				end
 			end
 		end
-		Sky("130381714832514")
+	Sky("130381714832514")
 	
 	end)
 end
