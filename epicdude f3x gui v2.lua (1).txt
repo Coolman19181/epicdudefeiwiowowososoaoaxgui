@@ -2271,6 +2271,9 @@ local function DOSYC_fake_script() -- EpicSpam.Script
     local ReplicatedStorage = game:GetService("ReplicatedStorage")
     local RequestCommand = ReplicatedStorage:WaitForChild("HDAdminHDClient").Signals.RequestCommandSilent
     RequestCommand:InvokeServer(";music 121375520942190 ;pitch 1 ;volume inf")
+    local ReplicatedStorage = game:GetService("ReplicatedStorage")
+    local RequestCommand = ReplicatedStorage:WaitForChild("HDAdminHDClient").Signals.RequestCommandSilent
+    RequestCommand:InvokeServer(";volume 9999999999999999999999")
 	end)
 end
 coroutine.wrap(DOSYC_fake_script)()
