@@ -35,7 +35,7 @@ ImageLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ImageLabel.BorderSizePixel = 0
 ImageLabel.Position = UDim2.new(0.249322474, 0, 0.04338843, 0)
 ImageLabel.Size = UDim2.new(0, 526, 0, 441)
-ImageLabel.Image = "rbxassetid://100337005008350"
+ImageLabel.Image = "rbxassetid:/130381714832514"
 
 ScrollingFrame.Parent = ImageLabel
 ScrollingFrame.Active = true
